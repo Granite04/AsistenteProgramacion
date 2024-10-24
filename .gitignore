@@ -1,0 +1,12 @@
+# Ignorar la carpeta target y todo su contenido
+**/target/
+
+# Ignorar la carpeta bin y todo su contenido
+**/bin/
+
+
+**/settings/
+
+# Ignorar archivos de configuración de Eclipse
+.classpath
+.project
